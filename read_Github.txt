@@ -1,0 +1,11 @@
+Comparison of Git and GitHub
+-------------------------------------------------------------
+Feature              | Git                          | GitHub
+-------------------------------------------------------------
+Type                 | Version control system       | Hosting platform
+Works Offline        | Yes                          | No
+Branching            | Local branches               | PR based collaboration
+Owner                | Linux Foundation             | Microsoft
+Usage                | Track code changes           | Store & manage repos
+-------------------------------------------------------------
+type               | Version control system       | Hosting platform 
